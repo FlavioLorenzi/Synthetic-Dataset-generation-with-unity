@@ -26,3 +26,6 @@ TODO
 
 - People and fbx models
 - Results
+
+![](./standing-front-view.gif)
+![](./mandown-front-view.gif)
