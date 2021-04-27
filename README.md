@@ -27,5 +27,10 @@ TODO
 - People and fbx models
 - Results
 
+--> STANDING PEOPLE: Camera 0
+
 ![](./standing-front-view.gif)
+
+--> MAN DOWN: Camera 0
+
 ![](./mandown-front-view.gif)
