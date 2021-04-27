@@ -1,4 +1,4 @@
-# Synthetic-Dataset-generation-with-unity
+# Synthetic-Dataset-generation-with-Unity
 
 Unity is a very interesting tool for dataset generation, allowing us to achieve new data for training every machine learning techniques when there is a shortage of these.
 
